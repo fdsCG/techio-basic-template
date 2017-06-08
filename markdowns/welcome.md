@@ -3,6 +3,9 @@
 This Basic template lets you get started quickly with a simple working example. If it is your first contribution then you should have a look at the [Getting Started](/doc/getting-started-create-playground) document.
 
 
+Please refer to the [documentation](/doc) to learn more about adding programming exerices to your contribution.
+
+
 The source code is on [GitHub](https://github.com/fdsCG/techio-basic-template), please feel free to come up with proposals to improve it.
 
 # Template Resources
